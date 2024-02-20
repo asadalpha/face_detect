@@ -1,0 +1,4 @@
+// enum Screenmode{
+//   live,
+//   gallery
+// }
